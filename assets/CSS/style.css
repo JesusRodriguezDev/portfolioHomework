@@ -114,8 +114,17 @@
     margin: 5px;
   }
 
+.card{
+  text-align: center;
+}
+
+.card span{
+  text-align: justify;
+}
+
+
   .smaller-cards{
-    margin-top: 10px;
+    margin-top: 50px;
     display: flex;
     flex-direction: row;
     width: 100%;
